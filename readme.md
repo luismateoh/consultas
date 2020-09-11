@@ -1,16 +1,25 @@
 # Consultas 
 
-#### Astrid Carolina Díaz Gómez
-#### Andres Dario Higuita Pérez
-#### Luis Carlos Marín Campos
-#### Luis Mateo Hincapié Martínez
+<div style="text-align: right"> your-text-here Astrid Carolina Díaz Gómez </div>
 
-##### Arquitectura de software
-##### Facultad de Ingeniería
-##### Universidad de Antioquia
-##### 2020-1
+Astrid Carolina Díaz Gómez
+
+Andres Dario Higuita Pérez
+
+Luis Carlos Marín Campos
+
+Luis Mateo Hincapié Martínez
 
 
-1.1 [Github](1.1_Github.pdf)
+Arquitectura de software
 
-1.2 [Gradle vs Maven](1.2_Gradle_vs_Maven.pdf)
+Facultad de Ingeniería
+
+Universidad de Antioquia
+
+2020-1
+
+
+### 1.1 [Github](1.1_Github.pdf)
+
+### 1.2 [Gradle vs Maven](1.2_Gradle_vs_Maven.pdf)
