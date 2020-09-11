@@ -2,6 +2,6 @@
 
 ## Universidad de Antioquia
 
-Github
-[Gradle vs Maven](1.2 Gradle vs Maven.pdf)
+1.1 [Github](1.1_Github.pdf)
+1.2 [Gradle vs Maven](1.2_Gradle_vs_Maven.pdf)
 
