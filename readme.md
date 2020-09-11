@@ -1,23 +1,15 @@
 # Consultas 
 
-<div style="text-align: right"> your-text-here Astrid Carolina Díaz Gómez </div>
 
-Astrid Carolina Díaz Gómez
+Astrid Carolina Díaz Gómez  
+Andres Dario Higuita Pérez  
+Luis Carlos Marín Campos  
+Luis Mateo Hincapié Martínez  
 
-Andres Dario Higuita Pérez
-
-Luis Carlos Marín Campos
-
-Luis Mateo Hincapié Martínez
-
-
-Arquitectura de software
-
-Facultad de Ingeniería
-
-Universidad de Antioquia
-
-2020-1
+Arquitectura de software  
+Facultad de Ingeniería  
+Universidad de Antioquia  
+2020-1  
 
 
 ### 1.1 [Github](1.1_Github.pdf)
