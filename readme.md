@@ -6,5 +6,5 @@
 
 1.1 Github
 
-1.2 [Gradle vs Maven](1.2 Gradle vs Maven.pdf)
+1.2 [Gradle vs Maven](../1.2 Gradle vs Maven.pdf)
 
