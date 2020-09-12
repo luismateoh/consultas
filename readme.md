@@ -1,9 +1,6 @@
 # Consultas 
 
 
-Astrid Carolina Díaz Gómez  
-Andres Dario Higuita Pérez  
-Luis Carlos Marín Campos  
 Luis Mateo Hincapié Martínez  
 
 Arquitectura de software  
